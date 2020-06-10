@@ -6,6 +6,5 @@ class Cat
     puts "meow!"
   end
 end
-maru=Cat.new
-maru.name=""
+cat=Cat.new
 cat.meow
